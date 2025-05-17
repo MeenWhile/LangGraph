@@ -65,5 +65,6 @@ Thumbs.db
 
 # Manual Add
 input/
-temp/
 output/
+temp/
+.langgraph_api/
